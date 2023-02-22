@@ -1,0 +1,22 @@
+Program.cs
+
+while loop with if statement
+
+
+
+
+Recipie.cs
+
+    _text: string
+
+    Recipie(recipie: string)
+
+    AddIngredient(): void
+    DisplayRecipe(): void
+
+
+Menu.cs
+
+    DisplayMenu(): int 
+
+

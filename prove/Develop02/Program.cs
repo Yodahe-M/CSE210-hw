@@ -28,10 +28,10 @@ class Program
 
         else if (userInput == 2)
         {
-            foreach(Entry entry in journal.entries)
-            {
-                entry.DisplayEntry();
-            }
+            
+            
+            journal.DisplayJournal();
+            
         }
 
         else if (userInput == 3)

@@ -4,6 +4,7 @@ public class Journal
 {
 
    public List<Entry> entries = new List<Entry>();
+   
 
    public int GetAction()
    {
@@ -17,8 +18,10 @@ public class Journal
 
    public void DisplayJournal ()
    {
-      Entry _entry = new Entry ();
-      // _entry.DisplayEntry();
+      foreach(Entry entry in entries)
+      {
+         entry.DisplayEntry();
+      }
    }
 
    public void SaveJournal()
@@ -52,6 +55,7 @@ public class Journal
          Entry entry = new Entry();
          entry._entry = line;
          entries.Add(entry);
+      
       }
    }
 
