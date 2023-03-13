@@ -1,0 +1,31 @@
+which activiry do you want to do?
+- B
+
+okay, so how many seconds do you want this activiry to be?
+- user input: 30
+
+get reay, 
+
+
+loop throguth this until it reaches the user input which is 30 seconds
+breathin...
+couting from 6-1
+breathout....
+counting from 6-1
+
+
+congradulation you have finished the activity....
+
+
+Observe mindfuless activity:
+    * look around the room and 
+    * The color for this activity is {}
+    * Look around the room and find objects with this color (blue).
+    * when you are ready, click enter and start listing the objects. 
+
+
+* pick from 1-10
+* Add 10 to that number
+* add 3 to sum
+* subtract 8 from the number 
+* subtract 
