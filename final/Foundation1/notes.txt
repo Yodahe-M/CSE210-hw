@@ -1,0 +1,16 @@
+What is the progrma suppose to do?
+* So it keeps track of YouTube videos and comments left on them.
+* store the information about the video and comments.
+
+    * So I need a class for video?....
+    * That class need to trakc the title, author, and lenght of the video
+    
+video nmae: dfba
+tenf : sfsdbfdjs
+lsnf: yf
+comments: 
+elro: hdgvusdfn scs 
+yoda: jwrhujf
+adsb: afbd
+
+via
