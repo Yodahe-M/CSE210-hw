@@ -2,9 +2,19 @@ using System;
 
 public class Comment
 {
-    public string _name;
-    public string _text;
+    private string _name;
+    private string _text;
 
+
+
+    public void SetName(string name)
+    {
+        _name = name;
+    }
+    public void SetText(string text)
+    {
+        _text = text;
+    }
     public void DisplayCommentDetails()
 
     {

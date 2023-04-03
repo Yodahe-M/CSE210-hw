@@ -1,0 +1,5 @@
+it is an online store, they sell productes online
+* they need to produce 
+    packaging lable,(list name and product id for each product) 
+    shipping label (name of customern and thier address)
+    and compute final price for billing. 

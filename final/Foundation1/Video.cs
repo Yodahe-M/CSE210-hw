@@ -2,13 +2,33 @@ using System;
 
 public class Video
 {
-    public string _title;
-    public string _author;
-    public int _length;
+    private string _title;
+    private string _author;
+    private int _length;
 
     public List<Comment> comments = new List<Comment>();
 
-   
+    
+    public void SetTitle(string title)
+    {
+        _title = title;
+    }
+
+    public void SetAuthor(string author)
+    {
+        _author = author;
+    }
+
+    public void SetLength(int length)
+    {
+        _length = length;
+    }
+
+
+    
+
+
+
     public void DisplayVideoDetails()
     {
 

@@ -1,0 +1,3 @@
+What is the progrm suppose to do.
+* they can create event
+- they help organize and plan event
