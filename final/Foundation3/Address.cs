@@ -9,13 +9,16 @@ public class Address
 
     public string GetAddress()
     {
-        return $"{_streetAddress}, {_city}, {_state}, {_country}";
+        return $"Address: {_streetAddress}, {_city}, {_state}, {_country}";
     }
-    public void SetStreetAddress(string streetAddress)
+    public void SetStreetAddress(string streetAddress, string city, string state, string country)
     {
         _streetAddress = streetAddress;
+        _city = city;
+        _state = state;
+        _country = country;
     }
-
+/*
     public void SetCity(string city)
     {
         _city = city;
@@ -30,5 +33,5 @@ public class Address
     {
         _country = country;
     }
-
+*/
 }
